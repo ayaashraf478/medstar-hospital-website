@@ -1,3 +1,4 @@
+![Design preview for the Product preview card component coding challenge](./images/medstar-hospital-website.png)
 # medstar-hospital-website
 We take health care personally at MedStar hospital, Because excellence in health care is about more than just medicine, technology, tests and treatments.
 
